@@ -1,7 +1,4 @@
 /* 
- * Student: Axel Rolando Alvarenga Munoz
- * UH ID: 2075248
- * COSC 4331 Homework 2 - Helper Functions file
  * 
  * 
  * Disclosures/References:
