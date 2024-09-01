@@ -5,6 +5,11 @@ tasks in VxWorks. The execution times are calculated using a time
 function that runs at the kernel level; the code recording the timestamps
 is triggered by a context-switch hook.
 
+Project's Implementation Diagram:
+
+![Project Diagram Image](execution_times.jpg)
+
+
 VxWorks functions are used in this code for kernel programming.
 
 The Real-Time tasks calculate Matrix Multiplication applying different
